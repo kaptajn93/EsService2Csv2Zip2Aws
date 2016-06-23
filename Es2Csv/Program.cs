@@ -73,6 +73,8 @@ namespace Es2Csv
                     var fromCurrentDate = config.FromCurrentDate;
                     var awsAccesskey = config.AwsAccesskey;
                     var awsSecretkey = config.AwsSecretkey;
+                    var awsBucketName = config.AwsBucketName;
+                    var awsDirectoryName = config.AwsDirectoryName;
 
                     #endregion
 
@@ -112,8 +114,8 @@ namespace Es2Csv
                             // 4) Upload to S3
                             // preparing our file and directory names
                             //string fileToBackup = @"d:\mybackupFile.zip"; // test file
-                            string myBucketName = "es2csv-backup"; //your s3 bucket name goes here
-                            string s3DirectoryName = "";
+                            string myBucketName = awsBucketName; //your s3 bucket name goes here
+                            string s3DirectoryName = awsDirectoryName;
                             string s3FileName = $"{zipFileName}";
                             AmazonUploader myUploader = new AmazonUploader(awsAccesskey, awsSecretkey);
                             //"AKIAJ7FOCCZY7MUBVJYA", "Z9AO9LbV0oQ5P+fZ2Xe4INyC1aEK6QwCZtcWPqp7"

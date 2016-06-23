@@ -17,5 +17,7 @@ namespace Es2Csv
         public string AwsAccesskey { get; set; }
         public string AwsSecretkey { get; set; }
         public string WhenToRun { get; set; }
+        public string AwsBucketName { get; set; }
+        public string AwsDirectoryName { get; set; }
     }
 }
