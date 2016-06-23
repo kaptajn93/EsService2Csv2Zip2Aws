@@ -81,9 +81,20 @@ now whrite the fallowing in the prompt:
 ```sh
 New-Service -name TEST -displayName TEST -binaryPathName "C:\Your-filepath-to-projekt\EsService2Csv2Zip2Aws\Es2Csv.Service\bin\Debug\Es2Csv.Service.exe -c C:\filepath-to-your-confile.config -t Hours:Minuts"
 ```
+To delete the service write the following:
+```sh
+(Get-WmiObject -Class Win32_Service -Filter "name='TEST'").delete()
+```
 The service name named TEST and display name TEST can be replaced by whatever you whant your service  to be called.
 
 Hours and Minuts have to be specefied using numbers like : "10:30" it is representet by ints, so if yor want to run your service at "09:09" you have to whrite it like "9:9", where "10:30" still would be "10:30".
+
+you can start the service by clicking the Windows button>> write "Services" >> find your service name and right-click >> start
+
+or by:
+```sh
+(Get-WmiObject -Class Win32_Service -Filter "name='TEST'").start()
+```
 
 This program does not take care of AM and PM, so this should be reformatted if this is what you use. 
 
