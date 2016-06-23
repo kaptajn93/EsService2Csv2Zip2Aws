@@ -1,0 +1,203 @@
+EntryIdLemma,HeadPosShortNameGyl,HeadWord,HeadWordExact,IdBook,IdEntry,PrioritizeWhenLemma,SenseCount,TimeStamp,Unbound
+
+ 
+Es2Csv.EntryIdLemma,proprium,Achilleus,Achilleus,dan-sko-ret,danskoret0000257,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,acidofiluskultur,acidofiluskultur,dan-sko-ret,danskoret0000259,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,a conto-betaling,a conto-betaling,dan-sko-ret,danskoret0088904,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adv.,a conto,a conto,dan-sko-ret,danskoret0000260,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,acontobeløb,acontobeløb,dan-sko-ret,danskoret0000261,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,a conto-beløb,a conto-beløb,dan-sko-ret,danskoret0088878,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,act.,act.,dan-sko-ret,danskoret0000265,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,acontobetaling,acontobetaling,dan-sko-ret,danskoret0000262,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,proprium,Acorerne,Acorerne,dan-sko-ret,danskoret0000263,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,acre,acre,dan-sko-ret,danskoret0000264,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,cand.act.,cand.act.,dan-sko-ret,danskoret0000266,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,sb.,action,action,dan-sko-ret,danskoret0000267,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,actionfilm,actionfilm,dan-sko-ret,danskoret0000268,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,actionspil,actionspil,dan-sko-ret,danskoret0000269,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,grine ad en vittighed,grine ad en vittighed,dan-sko-ret,danskoret0000273,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,,smile ad en vittighed,smile ad en vittighed,dan-sko-ret,danskoret0000275,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,,gøre nar ad,gøre nar ad,dan-sko-ret,danskoret0000276,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,,le ad en vittighed,le ad en vittighed,dan-sko-ret,danskoret0000274,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,sb.,ad,ad,dan-sko-ret,danskoret0000270,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,præp.,ad,ad,dan-sko-ret,danskoret0000272,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,hvad går der ad ham?,hvad går der ad ham?,dan-sko-ret,danskoret0000277,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,adv.,ad acta,ad acta,dan-sko-ret,danskoret0000282,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adagio,adagio,dan-sko-ret,danskoret0000284,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,gå ind ad det ene øre og ud ad det andet,gå ind ad det ene øre og ud ad det andet,dan-sko-ret,danskoret0000278,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,udråbsord,ad,ad,dan-sko-ret,danskoret0000279,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],2,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,AD,AD,dan-sko-ret,danskoret0000280,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,A.D.,A.D.,dan-sko-ret,danskoret0000281,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,,lægge ad acta,lægge ad acta,dan-sko-ret,danskoret0000283,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,True
+
+Es2Csv.EntryIdLemma,adv.,adagio,adagio,dan-sko-ret,danskoret0000286,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adaption,adaption,dan-sko-ret,danskoret0000292,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,addering,addering,dan-sko-ret,danskoret0000298,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,vb.,adaptere,adaptere,dan-sko-ret,danskoret0000291,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adaptiv,adaptiv,dan-sko-ret,danskoret0000293,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],2,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,proprium,Addis Abeba,Addis Abeba,dan-sko-ret,danskoret0000299,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,additionstegn,additionstegn,dan-sko-ret,danskoret0000301,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adagio,adagio,dan-sko-ret,danskoret0000285,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adamsæble,adamsæble,dan-sko-ret,danskoret0000288,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adv.,a dato,a dato,dan-sko-ret,danskoret0000294,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,addend,addend,dan-sko-ret,danskoret0000296,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,additiv,additiv,dan-sko-ret,danskoret0000302,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adaptation,adaptation,dan-sko-ret,danskoret0000289,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adapter,adapter,dan-sko-ret,danskoret0000290,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,a dato-veksel,a dato-veksel,dan-sko-ret,danskoret0000295,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelskalender,adelskalender,dan-sko-ret,danskoret0000312,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærd,adfærd,dan-sko-ret,danskoret0000323,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsforstyrrelse,adfærdsforstyrrelse,dan-sko-ret,danskoret0000328,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,proprium,Adelaide,Adelaide,dan-sko-ret,danskoret0000305,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsbrev,adelsbrev,dan-sko-ret,danskoret0000307,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsmand,adelsmand,dan-sko-ret,danskoret0000314,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsfrøken,adelsfrøken,dan-sko-ret,danskoret0000310,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsmærke,adelsmærke,dan-sko-ret,danskoret0000315,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelspatent,adelspatent,dan-sko-ret,danskoret0000316,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsvælde,adelsvælde,dan-sko-ret,danskoret0000319,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsanalyse,adfærdsanalyse,dan-sko-ret,danskoret0000324,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsforskning,adfærdsforskning,dan-sko-ret,danskoret0000327,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdskodeks,adfærdskodeks,dan-sko-ret,danskoret0000329,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,additiv,additiv,dan-sko-ret,danskoret0000303,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],1,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adelig,adelig,dan-sko-ret,danskoret0000306,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsfrue,adelsfrue,dan-sko-ret,danskoret0000309,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelstand,adelstand,dan-sko-ret,danskoret0000318,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsforsker,adfærdsforsker,dan-sko-ret,danskoret0000326,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsdame,adelsdame,dan-sko-ret,danskoret0000308,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelskab,adelskab,dan-sko-ret,danskoret0000311,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelskrone,adelskrone,dan-sko-ret,danskoret0000313,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adelsslægt,adelsslægt,dan-sko-ret,danskoret0000317,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,proprium,Aden,Aden,dan-sko-ret,danskoret0000320,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adenoid,adenoid,dan-sko-ret,danskoret0000321,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adept,adept,dan-sko-ret,danskoret0000322,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsbiologi,adfærdsbiologi,dan-sko-ret,danskoret0000325,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,vb.,adfærdsregulere,adfærdsregulere,dan-sko-ret,danskoret0000334,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsregulering,adfærdsregulering,dan-sko-ret,danskoret0000335,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsnorm,adfærdsnorm,dan-sko-ret,danskoret0000331,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsproblem,adfærdsproblem,dan-sko-ret,danskoret0000332,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsterapi,adfærdsterapi,dan-sko-ret,danskoret0089177,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsvanskelighed,adfærdsvanskelighed,dan-sko-ret,danskoret0000337,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsvidenskab,adfærdsvidenskab,dan-sko-ret,danskoret0000338,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adfærdsvidenskabelig,adfærdsvidenskabelig,dan-sko-ret,danskoret0000339,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adv.,ad gangen,ad gangen,dan-sko-ret,danskoret0000341,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdsmønster,adfærdsmønster,dan-sko-ret,danskoret0000330,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adfærdsvanskelig,adfærdsvanskelig,dan-sko-ret,danskoret0000336,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangsbegrænsning,adgangsbegrænsning,dan-sko-ret,danskoret0000343,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adfærdspsykologi,adfærdspsykologi,dan-sko-ret,danskoret0000333,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,vb.,adgangsbegrænse,adgangsbegrænse,dan-sko-ret,danskoret0000342,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangsberettigelse,adgangsberettigelse,dan-sko-ret,danskoret0000344,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adgangsberettiget,adgangsberettiget,dan-sko-ret,danskoret0000345,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangsbetingelse,adgangsbetingelse,dan-sko-ret,danskoret0000346,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangskort,adgangskort,dan-sko-ret,danskoret0000351,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,vb.,adgangsformene,adgangsformene,dan-sko-ret,danskoret0000349,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangskriterium,adgangskriterium,dan-sko-ret,danskoret0000353,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,adj.,adgangsgivende,adgangsgivende,dan-sko-ret,danskoret0000350,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangsbillet,adgangsbillet,dan-sko-ret,danskoret0000347,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangseksamen,adgangseksamen,dan-sko-ret,danskoret0000348,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangskrav,adgangskrav,dan-sko-ret,danskoret0000352,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangskriterie,adgangskriterie,dan-sko-ret,danskoret0088991,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adhd,adhd,dan-sko-ret,danskoret0088710,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adhærens,adhærens,dan-sko-ret,danskoret0000365,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,vb.,adhærere,adhærere,dan-sko-ret,danskoret0000366,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adhæsion,adhæsion,dan-sko-ret,danskoret0000367,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangsprøve,adgangsprøve,dan-sko-ret,danskoret0000355,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+
+Es2Csv.EntryIdLemma,sb.,adgangstegn,adgangstegn,dan-sko-ret,danskoret0000357,System.Collections.Generic.List`1[Es2Csv.PrioritizeWhenLemma],0,6/13/2016 11:46:04 AM,False
+

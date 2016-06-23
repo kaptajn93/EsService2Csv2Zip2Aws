@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es2Csv", "Es2Csv\Es2Csv.csproj", "{DB970163-B873-47E9-98CE-CA3332EEDBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es2Csv.Service", "Es2Csv.Service\Es2Csv.Service.csproj", "{ECC9BE90-09EB-43A3-BBEB-67ECDF72AE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es2Csv.Exsport.S3", "Es2Csv.Exsport.S3\Es2Csv.Exsport.S3.csproj", "{E7139885-3CD0-4629-BDF1-AEB601C7F29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB970163-B873-47E9-98CE-CA3332EEDBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB970163-B873-47E9-98CE-CA3332EEDBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB970163-B873-47E9-98CE-CA3332EEDBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB970163-B873-47E9-98CE-CA3332EEDBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC9BE90-09EB-43A3-BBEB-67ECDF72AE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC9BE90-09EB-43A3-BBEB-67ECDF72AE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC9BE90-09EB-43A3-BBEB-67ECDF72AE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC9BE90-09EB-43A3-BBEB-67ECDF72AE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7139885-3CD0-4629-BDF1-AEB601C7F29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7139885-3CD0-4629-BDF1-AEB601C7F29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7139885-3CD0-4629-BDF1-AEB601C7F29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7139885-3CD0-4629-BDF1-AEB601C7F29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
