@@ -41,8 +41,8 @@ you must specefy a config file in order for the program to work.
   "type": "searchlogger",
   "sortBy": "@timestamp",
   "filePath": "c:\\users\\hsm\\documents\\visual studio 2015\\Projects\\Es2Csv\\Es2Csv\\Logs\\",
-  "awsAccesskey": "AKIAJ7FOCCZY7MUBVJYA",
-  "awsSecretkey": "Z9AO9LbV0oQ5P+fZ2Xe4INyC1aEK6QwCZtcWPqp7",
+  "awsAccesskey": "yourAccessKey",
+  "awsSecretkey": "yourSecretKey",
   "awsBucketName": "your-bucket-name",
   "awsDirectoryName": "",
   "mappings": {
